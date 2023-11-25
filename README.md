@@ -9,7 +9,7 @@ The case study requires the analyst to follow the steps of the data analysis pro
 **Ask, Prepare, Process, Analyze, Share,** and **Act**.
 
 
-### **Kaggle notebook**: [R Notebook]() <br /> 
+
 ### **Tableau workbook**: [Tableau Public Workbook](https://public.tableau.com/app/profile/abhinav.kumar8797/viz/BellabeatCaseStudyGoogleAnalyticsCapstoneProject_16924004081280/Analysiswithsleeprecorddatan?publish=yes) <br /> 
 
 ### Background
